@@ -1,0 +1,7 @@
+@misc{
+yang2024unicontact,
+title={UniContact:A Basic Model for Robotic Manipulation of Contact Synthesis on Rigid and Articulated Rigid Bodies with Arbitrary Manipulators},
+author={Gang Yang and Zhixuan Xu and Zixuan Liu and Jichen Sun and Hanwei Fan and Xinghao Zhu and Lin Shao},
+year={2024},
+url={https://openreview.net/forum?id=Cf8HBieRzL}
+}

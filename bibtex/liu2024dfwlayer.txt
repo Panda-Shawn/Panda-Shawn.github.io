@@ -1,0 +1,8 @@
+@inproceedings{
+liu2024dfwlayer,
+title={{DFWL}ayer: Differentiable Frank-Wolfe Optimization Layer},
+author={Zixuan Liu and Liu Liu and Xueqian Wang and Peilin Zhao},
+booktitle={The Second Tiny Papers Track at ICLR 2024},
+year={2024},
+url={https://openreview.net/forum?id=XoPQqUctS1}
+}

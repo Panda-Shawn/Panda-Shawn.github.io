@@ -1,0 +1,10 @@
+@ARTICLE{10171231,
+  author={Li, Shu and Ding, Liang and Zheng, Miao and Liu, Zixuan and Li, Xinyu and Yang, Huaiguang and Gao, Haibo and Deng, Zongquan},
+  journal={IEEE Transactions on Neural Networks and Learning Systems}, 
+  title={NN-Based Reinforcement Learning Optimal Control for Inequality-Constrained Nonlinear Discrete-Time Systems With Disturbances}, 
+  year={2023},
+  volume={},
+  number={},
+  pages={1-10},
+  keywords={Artificial neural networks;Optimal control;Upper bound;Lyapunov methods;Discrete-time systems;Cost function;Uncertainty;Discrete time;neural networks (NNs);reinforcement learning (RL);state constraints;worst-case disturbance},
+  doi={10.1109/TNNLS.2023.3287881}}
