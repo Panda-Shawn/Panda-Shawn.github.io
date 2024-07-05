@@ -6,7 +6,7 @@ Papers sorted by recency. * denotes equal contribution.
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">IROS 2024</div><img src='images/manifm.gif' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-<span class="bold" style="color: #f09228;"> (Oral Presentation) </span> [ManiFoundation Model for General-Purpose Robotic Manipulation of Contact Synthesis with Arbitrary Objects and Robots](https://arxiv.org/pdf/2405.06964) \\ 
+<span class="bold" style="color: #f09228;"> (Oral Presentation) </span> [ManiFoundation Model for General-Purpose Robotic Manipulation of Contact Synthesis with Arbitrary Objects and Robots](https://arxiv.org/pdf/2405.06964) \\
 Zhixuan Xu\*, Chongkai Gao\*, **Zixuan Liu\***, Gang Yang\*, Chenrui Tie, Haozhuo Zheng, Haoyu Zhou, Weikun Peng, Debang Wang, Tianyi Chen, Zhouliang Yu, Lin Shao
 
 [Arxiv](https://arxiv.org/abs/2405.06964) \| [Website](https://manifoundationmodel.github.io/) \| [Code](https://github.com/NUS-LinS-Lab/ManiFM) \| [Bibtex](https://panda-shawn.github.io/bibtex/xu2024manifm.txt)
