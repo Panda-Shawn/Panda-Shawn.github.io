@@ -3,3 +3,5 @@ I am currently a master student at Tsinghua Shenzhen International Graduate Scho
 Recently I have been working as a research assistant at Prof. [Lin Shao (邵林)](https://linsats.github.io/)'s Lab and I am going to pursue my PhD degree under his supervision at [National University of Singapore](https://nus.edu.sg/).
 
 **Research Interests:** I am broadly interested in research on the **generalization** and **adaptation** of RL agents.
+
+You are very welcome to contact me regarding my research through [email]((mailto:zx-liu21@mails.tsinghua.edu.cn)). I typically respond within a few days.
