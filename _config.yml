@@ -6,18 +6,18 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-title                    : "Yi Ren (任意)"
-description              : "Research scientist in TikTok, Data-Speech Dept. Focusing on speech, NLP and music."
-repository               : "rayeren/rayeren.github.io"
-google_scholar_stats_use_cdn : true
+title                    : "Zixuan Liu (刘子轩)"
+description              : "Incoming PhD @ NUS focusing on reinforcement learning, imitation learning and robotics"
+repository               : "Panda-Shawn/Panda-Shawn.github.io"
+google_scholar_stats_use_cdn : #true
 
 # google analytics
-google_analytics_id      : G-SWFCX99KQZ
+google_analytics_id      : #G-SWFCX99KQZ
 
 # SEO Related
-google_site_verification : b_BbOIt7d513ZXYDw-YRMicO6O5tthYiouqWDdWjGTU
-bing_site_verification   : B5AA590E7B9C03956A6F7DEC0F776211
-baidu_site_verification  : code-ZxFK3f4pfb
+google_site_verification : #b_BbOIt7d513ZXYDw-YRMicO6O5tthYiouqWDdWjGTU
+bing_site_verification   : #B5AA590E7B9C03956A6F7DEC0F776211
+baidu_site_verification  : #code-ZxFK3f4pfb
 
 # Site Author
 author:
