@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Zixuan Liu (刘子轩)"
-description              : "Incoming PhD @ NUS focusing on reinforcement learning, imitation learning and robotics"
+description              : "Master @ THU and incoming PhD @ NUS focusing on reinforcement learning, imitation learning and robotics"
 repository               : "Panda-Shawn/Panda-Shawn.github.io"
 google_scholar_stats_use_cdn : #true
 
@@ -21,14 +21,14 @@ baidu_site_verification  : #code-ZxFK3f4pfb
 
 # Site Author
 author:
-  name             : "Yi Ren (任意)"
-  avatar           : "images/ry_profile.jpeg"
-  bio              : "TikTok"
-  location         : "Singapore"
+  name             : "YZixuan Liu (刘子轩)"
+  avatar           : "images/me.jpg"
+  bio              : "Tsinghua University"
+  location         : "Beijing"
   employer         :
   pubmed           : 
-  googlescholar    : "https://scholar.google.com/citations?user=4FA6C0AAAAAJ"
-  email            : "rayeren613@gmail.com"
+  googlescholar    : "https://scholar.google.com/citations?user=D4XufdkAAAAJ&hl"
+  email            : "zx-liu21@mails.tsinghua.edu.cn"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -37,21 +37,21 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "RayeRen"
+  github           : "Panda-Shawn"
   google_plus      :
   keybase          :
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : "rayeren"
-  dblp             : "https://dblp.org/pid/75/6568-6.html"
-  orcid            : "https://orcid.org/0000-0002-9160-3848"
+  linkedin         : # "rayeren"
+  dblp             : # "https://dblp.org/pid/75/6568-6.html"
+  orcid            : # "https://orcid.org/0000-0002-9160-3848"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : 
+  twitter          : https://x.com/ShawnZxliu
   vine             :
   weibo            :
   xing             :

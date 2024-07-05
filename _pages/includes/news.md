@@ -1,6 +1,7 @@
 # 🔥 News
-- *2024.03*: 🎉 Two papers are accepted by ICLR 2024
-- *2023.05*: 🎉 Five papers are accepted by ACL 2023
-- *2023.01*: DiffSinger was introduced in [a very popular video](https://www.bilibili.com/video/BV1uM411t7ZJ) (2000k+ views) in Bilibili!
-- *2023.01*: I join TikTok <img src='./images/tiktok.png' style='width: 6em;'> as a speech research scientist in Singapore!
-- *2022.02*: I release a modern and responsive academic personal [homepage template](https://github.com/RayeRen/acad-homepage.github.io). Welcome to STAR and FORK!
+- **2024.06** One paper "ManiFoundation Model for General-Purpose Robotic Manipulation of Contact Synthesis with Arbitrary Objects and Robots" was accepted to IROS 2024 as <span class="bold">oral presentation</span>.
+- **2024.03** I was offered the <span class="bold">PGF</span> with admissions to ISEP to pursue PhD at NUS.
+- **2024.02** One paper "DFWLayer: Differentiable Frank-Wolfe Optimization Layer" was accepted to Tiny Papers @ ICLR 2024 as <span class="bold">notable</span>.
+- **2024.01** One paper "Revisiting Plasticity in Visual Reinforcement Learning: Data, Modules and Training Stages" was accepted to ICLR 2024. Congratulations to Guozheng!
+- **2023.09** I started to work as a research assistant in Prof. Lin Shao's Lab.
+- **2023.06** One paper "Dynamics Adapted Imitation Learning" was accepted to TMLR.
