@@ -3,7 +3,7 @@
 ## Selected Publications
 Papers sorted by recency. * denotes equal contribution.
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">[IROS 2024](https://iros2024-abudhabi.org/)</div><img src='images/manifm.gif' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IROS 2024</div><img src='images/manifm.gif' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 <span class="bold" style="color: #f09228;"> (Oral Presentation) </span> [ManiFoundation Model for General-Purpose Robotic Manipulation of Contact Synthesis with Arbitrary Objects and Robots](https://arxiv.org/pdf/2405.06964) \\
@@ -15,7 +15,7 @@ Zhixuan Xu\*, Chongkai Gao\*, **Zixuan Liu\***, Gang Yang\*, Chenrui Tie, Haozhu
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">[TMLR 2023](https://jmlr.org/tmlr/)</div><img src='images/dynail.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TMLR 2023</div><img src='images/dynail.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Dynamics Adapted Imitation Learning](https://openreview.net/pdf?id=w36pqfaJ4t) \\
