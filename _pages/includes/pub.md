@@ -1,8 +1,8 @@
 
 # 📝 Publications 
-## Selected Publications
 Papers sorted by recency. * denotes equal contribution.
 
+## Selected Publications
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">IROS 2024</div><img src='images/manifm.gif' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
