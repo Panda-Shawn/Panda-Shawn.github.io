@@ -5,5 +5,5 @@
 - *2016.09 - 2021.06*, B.E., Harbin Institute of Technology, Harbin, Heilongjiang, China.
 
 # 💻 Internships
-- *2023.09 - 2024.03*, [Lin's Lab @ NUS SoC](https://github.com/NUS-LinS-Lab), Singapore.
+- *2023.09 - 2024.03*, [LinS Lab @ NUS SoC](https://github.com/NUS-LinS-Lab), Singapore.
 - *2022.01 - 2023.08*, [Tencent AI Lab](https://ai.tencent.com/ailab/en/index/), Shenzhen, Guangdong, China.
