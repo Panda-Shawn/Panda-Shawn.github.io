@@ -1,0 +1,9 @@
+@misc{xu2025dexsingrasplearningunifiedpolicy,
+      title={DexSinGrasp: Learning a Unified Policy for Dexterous Object Singulation and Grasping in Cluttered Environments}, 
+      author={Lixin Xu and Zixuan Liu and Zhewei Gui and Jingxiang Guo and Zeyu Jiang and Zhixuan Xu and Chongkai Gao and Lin Shao},
+      year={2025},
+      eprint={2504.04516},
+      archivePrefix={arXiv},
+      primaryClass={cs.RO},
+      url={https://arxiv.org/abs/2504.04516}, 
+}
