@@ -7,7 +7,7 @@ Papers sorted by recency. * denotes equal contribution.
 <div class='paper-box-text' markdown="1">
 
 [DexSinGrasp: Learning a Unified Policy for Dexterous Object Singulation and Grasping in Cluttered Environments](https://arxiv.org/pdf/2504.04516) \\
-Lixin Xu\*, Zixuan Liu\*, Zhewei Gui, Jingxiang Guo, Zeyu Jiang, Zhixuan Xu, Chongkai Gao, Lin Shao
+Lixin Xu\*, **Zixuan Liu\***, Zhewei Gui, Jingxiang Guo, Zeyu Jiang, Zhixuan Xu, Chongkai Gao, Lin Shao
 
 [*Under Review*](https://arxiv.org/abs/2504.04516)
 
