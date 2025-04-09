@@ -3,6 +3,18 @@
 Papers sorted by recency. * denotes equal contribution.
 
 ## Selected Publications
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Arxiv</div><img src='images/D8.gif' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[DexSinGrasp: Learning a Unified Policy for Dexterous Object Singulation and Grasping in Cluttered Environments](https://arxiv.org/pdf/2504.04516) \\
+Lixin Xu\*, Zixuan Liu\*, Zhewei Gui, Jingxiang Guo, Zeyu Jiang, Zhixuan Xu, Chongkai Gao, Lin Shao
+
+[*Under Review*](https://arxiv.org/abs/2504.04516)
+
+[Arxiv](https://arxiv.org/abs/2504.04516) \| [Website](https://nus-lins-lab.github.io/dexsingweb/) \| [Code](https://nus-lins-lab.github.io/dexsingweb/) \| [Bibtex](https://panda-shawn.github.io/bibtex/xu2024manifm.txt)
+</div>
+</div>
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">IROS 2024</div><img src='images/manifm.gif' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
