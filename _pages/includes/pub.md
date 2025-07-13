@@ -3,13 +3,25 @@
 Papers sorted by recency. * denotes equal contribution.
 
 ## Selected Publications
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Arxiv</div><img src='images/vlaos.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[VLA-OS: Structuring and Dissecting Planning Representations and Paradigms in Vision-Language-Action Models](https://arxiv.org/abs/2506.17561) \\
+Chongkai Gao, **Zixuan Liu**, Zhenghao Chi, Junshan Huang, Xin Fei, Yiwen Hou, Yuxuan Zhang, Yudi Lin, Zhirui Fang, Zeyu Jiang, Lin Shao
+
+[*Under Review*](https://arxiv.org/abs/2506.17561)
+
+[Arxiv](https://arxiv.org/abs/2506.17561) \| [Website](https://nus-lins-lab.github.io/vlaos/) \| [Code](https://github.com/HeegerGao/VLA-OS) \| [Bibtex](https://panda-shawn.github.io/bibtex/gao2025vlaos.txt)
+</div>
+</div>
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Arxiv</div><img src='images/D6D8.gif' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [DexSinGrasp: Learning a Unified Policy for Dexterous Object Singulation and Grasping in Cluttered Environments](https://arxiv.org/pdf/2504.04516) \\
 Lixin Xu\*, **Zixuan Liu\***, Zhewei Gui, Jingxiang Guo, Zeyu Jiang, Zhixuan Xu, Chongkai Gao, Lin Shao
 
-[*Under Review*](https://arxiv.org/abs/2504.04516)
+[*ICRA 2025 Workshop "Handy Moves: Dexterity in Multi-Fingered Hands"*](https://sites.google.com/view/dexterity-workshop-icra2025/home)
 
 [Arxiv](https://arxiv.org/abs/2504.04516) \| [Website](https://nus-lins-lab.github.io/dexsingweb/) \| [Code](https://nus-lins-lab.github.io/dexsingweb/) \| [Bibtex](https://panda-shawn.github.io/bibtex/xu2025dexsingrasp.txt)
 </div>

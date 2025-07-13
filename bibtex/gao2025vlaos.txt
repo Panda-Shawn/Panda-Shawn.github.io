@@ -1,0 +1,9 @@
+@misc{gao2025vlaosstructuringdissectingplanning,
+      title={VLA-OS: Structuring and Dissecting Planning Representations and Paradigms in Vision-Language-Action Models}, 
+      author={Chongkai Gao and Zixuan Liu and Zhenghao Chi and Junshan Huang and Xin Fei and Yiwen Hou and Yuxuan Zhang and Yudi Lin and Zhirui Fang and Zeyu Jiang and Lin Shao},
+      year={2025},
+      eprint={2506.17561},
+      archivePrefix={arXiv},
+      primaryClass={cs.CV},
+      url={https://arxiv.org/abs/2506.17561}, 
+}
