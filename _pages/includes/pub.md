@@ -3,13 +3,13 @@
 Papers sorted by recency. * denotes equal contribution.
 
 ## Selected Publications
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Arxiv</div><img src='images/vlaos.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2025</div><img src='images/vlaos.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [VLA-OS: Structuring and Dissecting Planning Representations and Paradigms in Vision-Language-Action Models](https://arxiv.org/abs/2506.17561) \\
 Chongkai Gao, **Zixuan Liu**, Zhenghao Chi, Junshan Huang, Xin Fei, Yiwen Hou, Yuxuan Zhang, Yudi Lin, Zhirui Fang, Zeyu Jiang, Lin Shao
 
-[*Under Review*](https://arxiv.org/abs/2506.17561)
+[*The Thirty-Ninth Annual Conference on Neural Information Processing Systems (NeurIPS), 2025*](https://arxiv.org/abs/2506.17561)
 
 [Arxiv](https://arxiv.org/abs/2506.17561) \| [Website](https://nus-lins-lab.github.io/vlaos/) \| [Code](https://github.com/HeegerGao/VLA-OS) \| [Bibtex](https://panda-shawn.github.io/bibtex/gao2025vlaos.txt)
 </div>
