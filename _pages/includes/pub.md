@@ -21,7 +21,8 @@ Chongkai Gao, **Zixuan Liu**, Zhenghao Chi, Junshan Huang, Xin Fei, Yiwen Hou, Y
 [DexSinGrasp: Learning a Unified Policy for Dexterous Object Singulation and Grasping in Densely Cluttered Environments](https://arxiv.org/pdf/2504.04516) \\
 Lixin Xu\*, **Zixuan Liu\***, Zhewei Gui, Jingxiang Guo, Zeyu Jiang, Zhixuan Xu, Chongkai Gao, Lin Shao
 
-[*ICRA 2025 Workshop "Handy Moves: Dexterity in Multi-Fingered Hands"*](https://sites.google.com/view/dexterity-workshop-icra2025/home)
+[*ICRA 2025 Workshop "Handy Moves: Dexterity in Multi-Fingered Hands"*](https://sites.google.com/view/dexterity-workshop-icra2025/home) \
+
 [*IEEE Robotics and Automation Letters (RA-L), 2025*](https://www.ieee-ras.org/publications/ra-l)
 
 [Arxiv](https://arxiv.org/abs/2504.04516) \| [Website](https://nus-lins-lab.github.io/dexsingweb/) \| [Code](https://nus-lins-lab.github.io/dexsingweb/) \| [Bibtex](https://panda-shawn.github.io/bibtex/xu2025dexsingrasp.txt)
