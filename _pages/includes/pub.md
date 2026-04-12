@@ -3,6 +3,16 @@
 Papers sorted by recency. * denotes equal contribution.
 
 ## Selected Publications
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Under Review</div><img src='images/ccge_gif.gif' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[CCGE: Contact Coverage-Guided Exploration for General-Purpose Dexterous Manipulation](https://arxiv.org/abs/2603.10971) \\
+**Zixuan Liu\***, Ruoyi Qiao, Chenrui Tie, Xuanwei Liu, Yunfan Lou, Chongkai Gao, Zhixuan Xu, Lin Shao
+
+[Arxiv](https://arxiv.org/abs/2603.10971) \| [Website](https://contact-coverage-guided-exploration.github.io/) \| [Code](https://github.com/ruoyiqiao/CCGE) \| [Bibtex](bibtex/liu2026ccge.txt)
+</div>
+</div>
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2025</div><img src='images/vlaos.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
@@ -13,7 +23,7 @@ Chongkai Gao, **Zixuan Liu**, Zhenghao Chi, Junshan Huang, Xin Fei, Yiwen Hou, Y
 
 <span class="bold" style="color: #f09228;"> [Outstanding Paper] </span> [*NeurIPS 2025 Workshop "Embodied World Models for Decision Making"*](https://embodied-world-models.github.io/)
 
-[Arxiv](https://arxiv.org/abs/2506.17561) \| [Website](https://nus-lins-lab.github.io/vlaos/) \| [Code](https://github.com/HeegerGao/VLA-OS) \| [Bibtex](https://panda-shawn.github.io/bibtex/gao2025vlaos.txt)
+[Arxiv](https://arxiv.org/abs/2506.17561) \| [Website](https://nus-lins-lab.github.io/vlaos/) \| [Code](https://github.com/HeegerGao/VLA-OS) \| [Bibtex](bibtex/gao2025vlaos.txt)
 </div>
 </div>
 
@@ -27,7 +37,7 @@ Lixin Xu\*, **Zixuan Liu\***, Zhewei Gui, Jingxiang Guo, Zeyu Jiang, Zhixuan Xu,
 
 [*IEEE Robotics and Automation Letters (RA-L), 2025*](https://www.ieee-ras.org/publications/ra-l)
 
-[Arxiv](https://arxiv.org/abs/2504.04516) \| [Website](https://nus-lins-lab.github.io/dexsingweb/) \| [Code](https://nus-lins-lab.github.io/dexsingweb/) \| [Bibtex](https://panda-shawn.github.io/bibtex/xu2025dexsingrasp.txt)
+[Arxiv](https://arxiv.org/abs/2504.04516) \| [Website](https://nus-lins-lab.github.io/dexsingweb/) \| [Code](https://nus-lins-lab.github.io/dexsingweb/) \| [Bibtex](bibtex/xu2025dexsingrasp.txt)
 </div>
 </div>
 
@@ -39,7 +49,7 @@ Zhixuan Xu\*, Chongkai Gao\*, **Zixuan Liu\***, Gang Yang\*, Chenrui Tie, Haozhu
 
 <span class="bold" style="color: #f09228;"> [Oral Presentation] </span> [*International Conference on Intelligent Robots and Systems (IROS), 2024*](https://iros2024-abudhabi.org/)
 
-[Arxiv](https://arxiv.org/abs/2405.06964) \| [Website](https://manifoundationmodel.github.io/) \| [Code](https://github.com/NUS-LinS-Lab/ManiFM) \| [Bibtex](https://panda-shawn.github.io/bibtex/xu2024manifm.txt)
+[Arxiv](https://arxiv.org/abs/2405.06964) \| [Website](https://manifoundationmodel.github.io/) \| [Code](https://github.com/NUS-LinS-Lab/ManiFM) \| [Bibtex](bibtex/xu2024manifm.txt)
 </div>
 </div>
 
@@ -51,7 +61,7 @@ Zhixuan Xu\*, Chongkai Gao\*, **Zixuan Liu\***, Gang Yang\*, Chenrui Tie, Haozhu
 
 [*Transactions on Machine Learning Research (TMLR), 2023*](https://jmlr.org/tmlr/)
 
-[Openreview](https://openreview.net/forum?id=w36pqfaJ4t) \| [Code](https://github.com/Panda-Shawn/DYNAIL) \| [Bibtex](https://panda-shawn.github.io/bibtex/liu2023dynail.txt)
+[Openreview](https://openreview.net/forum?id=w36pqfaJ4t) \| [Code](https://github.com/Panda-Shawn/DYNAIL) \| [Bibtex](bibtex/liu2023dynail.txt)
 </div>
 </div>
 

@@ -1,0 +1,9 @@
+@misc{liu2026contactcoverageguidedexplorationgeneralpurpose,
+      title={Contact Coverage-Guided Exploration for General-Purpose Dexterous Manipulation}, 
+      author={Zixuan Liu and Ruoyi Qiao and Chenrui Tie and Xuanwei Liu and Yunfan Lou and Chongkai Gao and Zhixuan Xu and Lin Shao},
+      year={2026},
+      eprint={2603.10971},
+      archivePrefix={arXiv},
+      primaryClass={cs.RO},
+      url={https://arxiv.org/abs/2603.10971}, 
+}
