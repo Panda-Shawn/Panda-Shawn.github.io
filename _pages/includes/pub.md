@@ -7,7 +7,7 @@ Papers sorted by recency. * denotes equal contribution.
 <div class='paper-box-text' markdown="1">
 
 [CCGE: Contact Coverage-Guided Exploration for General-Purpose Dexterous Manipulation](https://arxiv.org/abs/2603.10971) \\
-**Zixuan Liu\***, Ruoyi Qiao, Chenrui Tie, Xuanwei Liu, Yunfan Lou, Chongkai Gao, Zhixuan Xu, Lin Shao
+**Zixuan Liu\***, Ruoyi Qiao\*, Chenrui Tie, Xuanwei Liu, Yunfan Lou, Chongkai Gao, Zhixuan Xu, Lin Shao
 
 [Arxiv](https://arxiv.org/abs/2603.10971) \| [Website](https://contact-coverage-guided-exploration.github.io/) \| [Code](https://github.com/ruoyiqiao/CCGE) \| [Bibtex](bibtex/liu2026ccge.txt)
 </div>
