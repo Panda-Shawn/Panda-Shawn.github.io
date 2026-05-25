@@ -37,7 +37,7 @@ Lixin Xu\*, **Zixuan Liu\***, Zhewei Gui, Jingxiang Guo, Zeyu Jiang, Zhixuan Xu,
 
 [*IEEE Robotics and Automation Letters (RA-L), 2025*](https://www.ieee-ras.org/publications/ra-l)
 
-[Arxiv](https://arxiv.org/abs/2504.04516) \| [Website](https://nus-lins-lab.github.io/dexsingweb/) \| [Code](https://nus-lins-lab.github.io/dexsingweb/) \| [Bibtex](bibtex/xu2025dexsingrasp.txt)
+[Arxiv](https://arxiv.org/abs/2504.04516) \| [Website](https://nus-lins-lab.github.io/dexsingweb/) \| [Code](https://github.com/DavidLXu/DexSinGrasp) \| [Bibtex](bibtex/xu2025dexsingrasp.txt)
 </div>
 </div>
 
