@@ -1,0 +1,7 @@
+@unpublished{liu2026dexeyegrasp,
+  title={DexEyeGrasp: Learning Dexterous Grasping in Clutter with FingerEye Observations},
+  author={Zixuan Liu and Lizhi Bi and Xicheng Gong and Ruoyi Qiao and Wei Ken Ng and Tianrui Zhang and Xin Fei and Yiwen Hou and Zhixuan Xu and Lin Shao},
+  year={2026},
+  note={Under review},
+  url={https://dexeyegrasp.github.io/}
+}

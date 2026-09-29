@@ -1,0 +1,7 @@
+@inproceedings{ma2026dawn,
+  title={What Makes Value Learning Efficient in Residual Reinforcement Learning?},
+  author={Guozheng Ma and Lu Li and Haoyu Wang and Zixuan Liu and Pierre-Luc Bacon and Dacheng Tao},
+  booktitle={International Conference on Machine Learning},
+  year={2026},
+  url={https://arxiv.org/abs/2602.10539}
+}
