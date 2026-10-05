@@ -53,7 +53,10 @@ Chongkai Gao, **Zixuan Liu**, Zhenghao Chi, Junshan Huang, Xin Fei, Yiwen Hou, Y
 
 [*Annual Conference on Neural Information Processing Systems (NeurIPS), 2025*](https://neurips.cc/Conferences/2025)
 
-<span class="bold" style="color: #f09228;"> [Outstanding Paper] </span> [*NeurIPS 2025 Workshop "Embodied World Models for Decision Making"*](https://embodied-world-models.github.io/)
+<span class="bold" style="color: #f09228;"> [Outstanding] </span> [*NeurIPS 2025 Workshop "Embodied World Models for Decision Making"*](https://embodied-world-models.github.io/)
+
+<!-- Spotlight designation: author pages https://chongkaigao.com/research.html and https://felix-zhenghao.github.io/; the workshop page lists accepted presentations, not per-paper Spotlight selections. -->
+<span class="bold" style="color: #f09228;"> [Spotlight] </span> [*CoRL 2025 Eval-Deploy Workshop*](https://eval-deploy.github.io/)
 
 [Arxiv](https://arxiv.org/abs/2506.17561) \| [Website](https://nus-lins-lab.github.io/vlaos/) \| [Code](https://github.com/HeegerGao/VLA-OS) \| [Bibtex](bibtex/gao2025vlaos.txt)
 </div>
@@ -65,7 +68,8 @@ Chongkai Gao, **Zixuan Liu**, Zhenghao Chi, Junshan Huang, Xin Fei, Yiwen Hou, Y
 [DexSinGrasp: Learning a Unified Policy for Dexterous Object Singulation and Grasping in Densely Cluttered Environments](https://arxiv.org/pdf/2504.04516) \\
 Lixin Xu\*, **Zixuan Liu\***, Zhewei Gui, Jingxiang Guo, Zeyu Jiang, Zhixuan Xu, Chongkai Gao, Lin Shao
 
-[*ICRA 2025 Workshop "Handy Moves: Dexterity in Multi-Fingered Hands"*](https://sites.google.com/view/dexterity-workshop-icra2025/home) 
+<!-- Spotlight designation: author page https://jingxiangguo.com/; an organizer-issued per-paper Spotlight list has not been independently verified. -->
+<span class="bold" style="color: #f09228;"> [Spotlight] </span> [*ICRA 2025 Workshop "Handy Moves: Dexterity in Multi-Fingered Hands"*](https://sites.google.com/view/dexterity-workshop-icra2025/home)
 
 [*IEEE Robotics and Automation Letters (RA-L), 2025*](https://www.ieee-ras.org/publications/ra-l)
 
@@ -79,7 +83,7 @@ Lixin Xu\*, **Zixuan Liu\***, Zhewei Gui, Jingxiang Guo, Zeyu Jiang, Zhixuan Xu,
 [ManiFoundation Model for General-Purpose Robotic Manipulation of Contact Synthesis with Arbitrary Objects and Robots](https://arxiv.org/pdf/2405.06964) \\
 Zhixuan Xu\*, Chongkai Gao\*, **Zixuan Liu\***, Gang Yang\*, Chenrui Tie, Haozhuo Zheng, Haoyu Zhou, Weikun Peng, Debang Wang, Tianyi Chen, Zhouliang Yu, Lin Shao
 
-<span class="bold" style="color: #f09228;"> [Oral Presentation] </span> [*International Conference on Intelligent Robots and Systems (IROS), 2024*](https://iros2024-abudhabi.org/)
+<span class="bold" style="color: #f09228;"> [Oral] </span> [*International Conference on Intelligent Robots and Systems (IROS), 2024*](https://iros2024-abudhabi.org/)
 
 [Arxiv](https://arxiv.org/abs/2405.06964) \| [Website](https://manifoundationmodel.github.io/) \| [Code](https://github.com/NUS-LinS-Lab/ManiFM) \| [Bibtex](bibtex/xu2024manifm.txt)
 </div>

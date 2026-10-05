@@ -1,9 +1,11 @@
 # 🔥 News
-- 2026.07 **ContactExplorer** was selected for a **Spotlight** at the RSS 2026 Workshop "Dexterous Manipulation: Scalable Learning for Human-Level Skills".
+- 2026.07 **ContactExplorer** was selected for a **Spotlight Talk** at the RSS 2026 Workshop "Dexterous Manipulation: Scalable Learning for Human-Level Skills".
 - 2026.07 **DAWN** was accepted to ICML 2026 as a **Spotlight** paper.
 - 2025.12 **VLA-OS** was awarded **Outstanding Paper** in the NeurIPS 2025 Workshop "Embodied World Models for Decision Making".
 - 2025.11 **DexSinGrasp** was accepted to RA-L.
 - 2025.09 **VLA-OS** was accepted to NeurIPS 2025.
+- 2025.09 **VLA-OS** was selected for a **Spotlight Talk** at the CoRL 2025 Eval-Deploy Workshop.
+- 2025.05 **DexSinGrasp** was selected for a **Spotlight Presentation** at the ICRA 2025 Workshop "Handy Moves: Dexterity in Multi-Fingered Hands".
 - 2024.06 **ManiFM** was accepted to IROS 2024 as an **Oral Presentation**.
 - 2024.03 I was offered the **PGF** with admissions to ISEP to pursue a PhD at NUS.
 - 2024.02 **DFWLayer** was accepted to Tiny Papers @ ICLR 2024 as **Notable**.
