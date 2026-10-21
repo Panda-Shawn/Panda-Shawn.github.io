@@ -16,11 +16,13 @@
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><img src='images/cimi.webp' alt="CIMI contact imitation interface for transferring human demonstrations to robot hands" width="100%" loading="lazy"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Under Review</div><img src='images/cimi.webp' alt="CIMI contact imitation interface for transferring human demonstrations to robot hands" width="100%" loading="lazy"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [CIMI: Contact Imitation Interface — Transferring Dexterous Skills by Showing How Contact Unfolds](https://nus-lins-lab.github.io/CIMIWeb/) \\
 Zhixuan Xu\*, Yichen Li\*, Bingchen Wu, Yiwen Hou, **Zixuan Liu**, Tianyu Qiu, Lin Shao
+
+*Manuscript under review, 2026.*
 
 [Website](https://nus-lins-lab.github.io/CIMIWeb/) \| [PDF](https://nus-lins-lab.github.io/CIMIWeb/paper.pdf) \| [Supplement](https://nus-lins-lab.github.io/CIMIWeb/supplement.pdf)
 </div>
