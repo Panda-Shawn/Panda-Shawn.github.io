@@ -12,7 +12,17 @@
 
 *Manuscript under review, 2026.*
 
-[Website](https://dexeyegrasp.github.io/) \| [Video](https://dexeyegrasp.github.io/#project-video) \| [Bibtex](bibtex/liu2026dexeyegrasp.txt)
+[Website](https://dexeyegrasp.github.io/) \| [Video](https://dexeyegrasp.github.io/#project-video)
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><img src='images/cimi.webp' alt="CIMI contact imitation interface for transferring human demonstrations to robot hands" width="100%" loading="lazy"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[CIMI: Contact Imitation Interface — Transferring Dexterous Skills by Showing How Contact Unfolds](https://nus-lins-lab.github.io/CIMIWeb/) \\
+Zhixuan Xu\*, Yichen Li\*, Bingchen Wu, Yiwen Hou, **Zixuan Liu**, Tianyu Qiu, Lin Shao
+
+[Website](https://nus-lins-lab.github.io/CIMIWeb/) \| [PDF](https://nus-lins-lab.github.io/CIMIWeb/paper.pdf) \| [Supplement](https://nus-lins-lab.github.io/CIMIWeb/supplement.pdf)
 </div>
 </div>
 
